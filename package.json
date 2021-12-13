@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "ganache": "^6.4.5",
+    "install": "^0.13.0",
+    "npm": "^8.3.0"
+  }
+}
